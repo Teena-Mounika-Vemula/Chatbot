@@ -1,0 +1,23 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment or virtualenv folders
+.env
+.venv/
+env/
+venv/
+
+# VS Code files
+.vscode/
+
+# System files
+.DS_Store
+
+# API keys or credentials
+*.env
+credentials.json
